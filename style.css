@@ -1,0 +1,179 @@
+*{
+    margin: 0px;
+    color: white;
+}
+.content1{
+    margin-top: 10px;
+    margin-left: 300px;
+    margin-right:300px;
+}
+#logo{
+    text-shadow:white;
+    color: red;
+}
+.list1{
+    margin-top: 100px;
+    width: auto;
+    height: 500px;
+    background-color: black;
+}
+.list2{
+    padding-top: 70px;
+    width: auto;
+    height: 400px;
+
+}
+.content{
+    width: 500px;
+    height: 200px;
+    margin-left: 100px;
+    text-align: center;
+    margin-top: 100px;
+    padding-top: 60px;
+}
+
+hr{
+    height: 5px;
+    background-color: gray;
+    opacity: .6;
+}
+.home-background{
+
+    background-image: url(imageedit_8_9108783503.png);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;     
+
+}
+
+body{
+    background-color: black;
+
+}
+.home-background{
+    margin-bottom: 200px;
+}
+.logo{
+    color: red;
+    font-size: 2em;
+    padding-left: 80px;
+
+}
+#signIn{
+    float: right;
+    padding-right:150px ;
+    padding-top: 20px;
+}
+Button{
+    width: 80px;
+    height: 30px;
+    background-color: red;
+    border-width: 0px;
+    border-radius: 5px;
+    color: white;
+    font-size: .9em;
+}
+h2{
+    color: white;
+    font-size: 4em;
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    margin-top: 8%;
+    font-style:normal;
+}
+p{
+    color: white;
+    font-size: 2em;
+    text-align: center;
+}
+.emailBt{
+    padding-top: 20px;
+    text-align: center;
+}
+
+
+#email,#password{
+    width: 300px;
+    height: 50px;
+    border-radius: 5px;
+    border-width: 0px;
+    background-color: black;
+    opacity: .6;
+    font-size: 1.4em;
+    color: white;
+    padding-left: 20px;
+    margin: 10px;
+    border-width: 1px;
+    border-color: grey;
+}
+#getStartedId{
+width: 200px;
+height: 50px;
+border-radius: 5px;
+border-width:0px;
+background-color: red;
+font-size: 1.5em;
+color: white;
+}
+#signuppg{
+    width: 30%;
+    height: 70%;
+    background-color: rgb(117, 25, 25);
+    text-align: center;
+    margin: auto;
+}
+
+.signInBt{
+    text-align: center;
+    text-decoration: none;
+    width: 300px;
+    height: 50px;
+    border-radius: 5px;
+    border-width: 0px;
+    background-color: red;
+    opacity: .8;
+    font-size: 1.4em;
+    color: white;
+    padding-left: 20px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.column{
+    float: right;
+}
+.column0{
+    float: left;
+}
+.row{
+    margin: 10px;
+}
+.content{
+    margin-top: 50px;
+}
+h3{
+    float: left;
+}
+
+
+
+    
+
+.float-left{
+    float: left;
+    margin-left: 80px;
+}
+.float-right{
+    float: right;
+    margin-right: 80px;
+}
+.center{
+    text-align: center;
+}
+summary{
+    font-size: 2em;
+    width: auto;
+    height: 50px;
+    background-color: red;
+
+}

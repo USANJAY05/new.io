@@ -1,0 +1,74 @@
+*{
+    margin: 0px;
+}
+h1{
+    font-size: 3em;
+    color: red;
+}
+.top{
+    width: 100%;
+    height: 90px;
+    background-color: white;
+    margin-bottom: 130px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: whitesmoke;
+
+}
+.top-content{
+    padding-top: 15px;
+    margin-left: 40px;
+    border-bottom: 4px;
+}
+.float-right{
+    float:right;
+}
+.signup{
+    margin: 25px;
+    font-size: 1.5em;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.container{
+    height: 500px;
+    width: 350px;
+    margin: auto;
+}
+.text>h1{
+    color: black;
+    font-size: 2.2em;
+    margin-top: 5px;
+}
+.container>p{
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+#password,#signupbt{
+    width: 100%;
+    height: 50px;
+    border-style: solid;
+    border-width: 1px;
+    font-size: 20px;
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+p{
+    margin-top: 20px;
+    font-size: 1.2em;
+}
+li{
+    padding-top: 15px;
+    width: 270px;
+    margin: auto;
+    font-size: 1.3em;
+    list-style-type:'✔ ';
+}
+.center{
+    text-align: center;
+}
+#signupbt{
+    background-color: red;
+    color: white;
+}
